@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\ll\lesson001\bin\Debug\net7.0\lesson001.exe
+C:\Users\e.belyankina\Desktop\ll\lesson001\bin\Debug\net7.0\lesson001.deps.json
+C:\Users\e.belyankina\Desktop\ll\lesson001\bin\Debug\net7.0\lesson001.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\ll\lesson001\bin\Debug\net7.0\lesson001.dll
+C:\Users\e.belyankina\Desktop\ll\lesson001\bin\Debug\net7.0\lesson001.pdb
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\lesson001.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\lesson001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\lesson001.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\lesson001.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\lesson001.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\lesson001.dll
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\refint\lesson001.dll
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\lesson001.pdb
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\lesson001.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\ll\lesson001\obj\Debug\net7.0\ref\lesson001.dll
